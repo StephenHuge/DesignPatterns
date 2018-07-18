@@ -1,0 +1,3 @@
+Java自带的IO包中就使用了装饰者模式。
+InputStream是一个抽象类，作为Component，
+而其中的decorator类是抽象类FilterInputStream。
